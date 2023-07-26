@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+
+.cabecalho{
+    display: flex;
+    background-color: brown;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blueviolet;
+
+}
+
+.cabecalho_menu {
+
+}
